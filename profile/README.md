@@ -12,8 +12,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **Software Development**
 
-<div align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC4UDDhF8SI9F_1YwBVd7XPS5T_K1Gk7BaJQ&s" alt="Software Development" width="50" height="50" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC4UDDhF8SI9F_1YwBVd7XPS5T_K1Gk7BaJQ&s" alt="Software Development" width="100" height="100">
   <p>We create custom software solutions tailored to your requirements, ensuring scalability, security, and high performance.</p>
 </div>
 
@@ -21,8 +21,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **Mobile Application Development**
 
-<div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="Mobile App Development" width="200" height="200" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://via.placeholder.com/200x200" alt="Mobile App Development" width="200" height="200">
   <p>From cross-platform to native mobile apps for iOS and Android, we deliver intuitive designs and seamless user experiences.</p>
 </div>
 
@@ -30,8 +30,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **Website Development**
 
-<div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="Website Development" width="200" height="200" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://via.placeholder.com/200x200" alt="Website Development" width="200" height="200">
   <p>We build responsive and visually appealing websites optimized for performance and user engagement.</p>
 </div>
 
@@ -39,8 +39,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **Web Application Development**
 
-<div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="Web App Development" width="200" height="200" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://via.placeholder.com/200x200" alt="Web App Development" width="200" height="200">
   <p>Our dynamic and interactive web applications are built with modern frameworks and technologies.</p>
 </div>
 
@@ -48,8 +48,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **API Development**
 
-<div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="API Development" width="200" height="200" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://via.placeholder.com/200x200" alt="API Development" width="200" height="200">
   <p>We develop robust and secure APIs (RESTful and GraphQL) for seamless integration into your systems.</p>
 </div>
 
@@ -57,8 +57,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **Command-line Applications**
 
-<div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="CLI Tools" width="200" height="200" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://via.placeholder.com/200x200" alt="CLI Tools" width="200" height="200">
   <p>We build efficient and powerful CLI tools for automation and productivity.</p>
 </div>
 
@@ -66,8 +66,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **Desktop Applications**
 
-<div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="Desktop Apps" width="200" height="200" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://via.placeholder.com/200x200" alt="Desktop Apps" width="200" height="200">
   <p>We create feature-rich desktop applications for Windows, macOS, and Linux.</p>
 </div>
 
@@ -75,8 +75,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **Automations**
 
-<div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="Automation" width="200" height="200" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://via.placeholder.com/200x200" alt="Automation" width="200" height="200">
   <p>We streamline your business processes with workflow automation and custom scripts.</p>
 </div>
 
@@ -84,8 +84,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **ERP Solutions**
 
-<div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="ERP Solutions" width="200" height="200" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://via.placeholder.com/200x200" alt="ERP Solutions" width="200" height="200">
   <p>Our customizable ERP systems help you manage your operations efficiently.</p>
 </div>
 
@@ -93,8 +93,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **SEO Services**
 
-<div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="SEO Services" width="200" height="200" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://via.placeholder.com/200x200" alt="SEO Services" width="200" height="200">
   <p>We boost your online visibility with data-driven SEO strategies.</p>
 </div>
 
@@ -102,8 +102,8 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 
 ### **DevOps & CI/CD**
 
-<div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="DevOps" width="200" height="200" style="float: left; margin-right: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://via.placeholder.com/200x200" alt="DevOps" width="200" height="200">
   <p>We streamline development and deployment processes for faster delivery.</p>
 </div>
 
