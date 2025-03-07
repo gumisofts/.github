@@ -13,7 +13,7 @@ At Gumisoft, we offer a wide range of services tailored to meet your business ne
 ### **Software Development**
 
 <div align="left">
-  <img src="https://via.placeholder.com/200x200" alt="Software Development" width="200" height="200" style="float: left; margin-right: 20px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC4UDDhF8SI9F_1YwBVd7XPS5T_K1Gk7BaJQ&s" alt="Software Development" width="200" height="200" style="float: left; margin-right: 20px;">
   <p>We create custom software solutions tailored to your requirements, ensuring scalability, security, and high performance.</p>
 </div>
 
