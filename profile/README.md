@@ -33,6 +33,7 @@ We create custom software solutions tailored to your requirements, ensuring scal
 ### **Mobile Application Development**
 
 <img align="left" width="100" height="100" src="mobile.png">
+
 ```
 From cross-platform to native mobile apps for iOS and Android, we deliver intuitive designs and seamless user experiences.
 ```
