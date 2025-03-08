@@ -24,7 +24,7 @@ Here are some of the servies we provide
 
 ## **Software Development**
 
-<img align="right" width="100" height="100" src="softwareDev.png">
+<img align="right" width="100" height="100" src="softwareDe.png">
 
 ```
 We create custom software solutions tailored to your requirements, ensuring scalability, security, and high performance.
